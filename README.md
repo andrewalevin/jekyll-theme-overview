@@ -1,7 +1,4 @@
----
-layout: default
 title: 🟢 About Me 🟢
----
 
 
 # jekyll-theme-overview
