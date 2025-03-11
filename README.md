@@ -1,9 +1,10 @@
-
 ---
-title: "🟢About Me"
-description: "🟢Learn more about me and my work."
-image: "vyazemy-museum-1600.jpg"
-author: "🟢Andrew Levin"
+layout: default
+title: Web Development Services
+description: Affordable and high-quality web development services by John Doe.
+image: /assets/images/services-cover.jpg
+lang: en
+author: John Doe
 ---
 
 # jekyll-theme-overview
