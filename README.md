@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Web Development Services
 description: Affordable and high-quality web development services by John Doe.
 image: /assets/images/services-cover.jpg
